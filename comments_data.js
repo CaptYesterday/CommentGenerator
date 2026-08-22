@@ -55,19 +55,11 @@
  */
 
 const SEMESTER_DATA = {
-
   // ══════════════════════════════════════════════════════════════════════════
   //  SEMESTER 1
   // ══════════════════════════════════════════════════════════════════════════
   "Semester 1": {
-
-    SUBJECT_ORDER: [
-      "English",
-      "Maths",
-      "SharingthePlanet",
-      "WhoWeAre",
-      "HWOO",
-    ],
+    SUBJECT_ORDER: ["English", "Maths", "SharingthePlanet", "WhoWeAre", "HWOO"],
 
     SUBJECT_DISPLAY_NAMES: {
       SharingthePlanet: "Sharing the Planet",
@@ -78,12 +70,10 @@ const SEMESTER_DATA = {
     },
 
     subjects: {
-
       // ──────────────────────────────────────────────────────────────────────
       //  ENGLISH — Semester 1
       // ──────────────────────────────────────────────────────────────────────
       English: {
-
         "Oral Language & Communication": {
           Strengths: [
             "use voice, volume, tone and pace to deliver well planned spoken presentations",
@@ -371,15 +361,12 @@ const SEMESTER_DATA = {
             "EXTENSION - carefully proofread and refine work to ensure accuracy",
           ],
         },
-
       }, // end English Sem 1
-
 
       // ──────────────────────────────────────────────────────────────────────
       //  MATHS — Semester 1
       // ──────────────────────────────────────────────────────────────────────
       Maths: {
-
         "NA - Represents Number": {
           Strengths: [
             "recognise the location of negative whole numbers in relation to zero and place them on a number line",
@@ -523,24 +510,22 @@ const SEMESTER_DATA = {
           ],
           Goals: [],
         },
-
       }, // end Maths Sem 1
-
 
       // ──────────────────────────────────────────────────────────────────────
       //  SHARING THE PLANET — Semester 1
       // ──────────────────────────────────────────────────────────────────────
       SharingthePlanet: {
-
-        "LOI 1 - Features and characteristics of landforms / Information Report and Landform Model": {
-          Strengths: [
-            "D - identify some features of commonly found landforms and describe the location and formation of a famous landform",
-            "C - identify features of commonly found landforms and describe the location and formation of a famous landform in detail",
-            "B - describe the physical features of diverse landforms and the particular characteristics of a famous landform, including location, formation and significance",
-            "A - compare physical features of diverse landforms and thoroughly describe characteristics of a famous landform, including location, formation and cultural significance",
-          ],
-          Goals: [],
-        },
+        "LOI 1 - Features and characteristics of landforms / Information Report and Landform Model":
+          {
+            Strengths: [
+              "D - identify some features of commonly found landforms and describe the location and formation of a famous landform",
+              "C - identify features of commonly found landforms and describe the location and formation of a famous landform in detail",
+              "B - describe the physical features of diverse landforms and the particular characteristics of a famous landform, including location, formation and significance",
+              "A - compare physical features of diverse landforms and thoroughly describe characteristics of a famous landform, including location, formation and cultural significance",
+            ],
+            Goals: [],
+          },
 
         "LOI 2 - People influencing places and environments / Hybrid text": {
           Strengths: [
@@ -585,15 +570,12 @@ const SEMESTER_DATA = {
           ],
           Goals: [],
         },
-
       }, // end SharingthePlanet
-
 
       // ──────────────────────────────────────────────────────────────────────
       //  WHO WE ARE — Semester 1
       // ──────────────────────────────────────────────────────────────────────
       WhoWeAre: {
-
         "Leadership/Friendship Comments": {
           Strengths: [
             "identify (all/some) the elements of effective leadership",
@@ -643,15 +625,12 @@ const SEMESTER_DATA = {
             "identify her emotions in times of stress/pressure/worry to manage them",
           ],
         },
-
       }, // end WhoWeAre Sem 1
-
 
       // ──────────────────────────────────────────────────────────────────────
       //  HWOO — Semester 1
       // ──────────────────────────────────────────────────────────────────────
       HWOO: {
-
         "LOI 1 - Indigenous timeline": {
           Strengths: [
             "D - understand how Australian society has changed throughout the twentieth century for First Nation peoples",
@@ -681,24 +660,21 @@ const SEMESTER_DATA = {
           ],
           Goals: [],
         },
-
       }, // end HWOO
-
     }, // end Semester 1 subjects
   }, // end Semester 1
-
 
   // ══════════════════════════════════════════════════════════════════════════
   //  SEMESTER 2
   // ══════════════════════════════════════════════════════════════════════════
   "Semester 2": {
-
     SUBJECT_ORDER: [
       "English",
       "Maths",
       "HowtheWorldWorks",
       "WhoWeAre",
       "PYPExhibition",
+      "WWAIPAT",
     ],
 
     SUBJECT_DISPLAY_NAMES: {
@@ -707,15 +683,14 @@ const SEMESTER_DATA = {
       HowtheWorldWorks: "How the World Works",
       WhoWeAre: "Who We Are",
       PYPExhibition: "PYP Exhibition",
+      WWAIPAT: "WWAIPAT",
     },
 
     subjects: {
-
       // ──────────────────────────────────────────────────────────────────────
       //  ENGLISH — Semester 2
       // ──────────────────────────────────────────────────────────────────────
       English: {
-
         "Oral Language & Communication": {
           Strengths: [
             "participate in sustained discussions, through questioning, building on and evaluating shared information",
@@ -851,15 +826,12 @@ const SEMESTER_DATA = {
           ],
           Goals: [],
         },
-
       }, // end English Sem 2
-
 
       // ──────────────────────────────────────────────────────────────────────
       //  MATHS — Semester 2
       // ──────────────────────────────────────────────────────────────────────
       Maths: {
-
         "NA - Represents Numbers": {
           Strengths: [
             "recognise the location of negative whole numbers in relation to zero and place them on a number line",
@@ -1057,15 +1029,12 @@ const SEMESTER_DATA = {
           ],
           Goals: [],
         },
-
       }, // end Maths Sem 2
-
 
       // ──────────────────────────────────────────────────────────────────────
       //  HOW THE WORLD WORKS — Semester 2
       // ──────────────────────────────────────────────────────────────────────
       HowtheWorldWorks: {
-
         "How the World Works": {
           Strengths: [
             "pose relevant, open-ended questions based around the PYP Key Concepts to inquire into indigenous inventions",
@@ -1095,15 +1064,12 @@ const SEMESTER_DATA = {
           ],
           Goals: [],
         },
-
       }, // end HowtheWorldWorks
-
 
       // ──────────────────────────────────────────────────────────────────────
       //  WHO WE ARE — Semester 2
       // ──────────────────────────────────────────────────────────────────────
       WhoWeAre: {
-
         "Term 3": {
           Strengths: [
             "develop an awareness of what coping looks like, sounds like, and feels like for her in different situations",
@@ -1153,15 +1119,12 @@ const SEMESTER_DATA = {
           ],
           Goals: [],
         },
-
       }, // end WhoWeAre Sem 2
-
 
       // ──────────────────────────────────────────────────────────────────────
       //  PYP EXHIBITION — Semester 2
       // ──────────────────────────────────────────────────────────────────────
       PYPExhibition: {
-
         Questions: {
           Strengths: [
             "develop different types of research questions for an independent inquiry with support",
@@ -1297,10 +1260,51 @@ const SEMESTER_DATA = {
           ],
           Goals: [],
         },
-
       }, // end PYPExhibition
+      // ──────────────────────────────────────────────────────────────────────
+      //  WWAIPAT — Semester 2
+      // ──────────────────────────────────────────────────────────────────────
+      WWAIPAT: {
+        "LOI 1: Value and use of natural and cultural places over time": {
+          Strengths: [
+            "analyse the value and significance of natural and cultural places over time and justify how World Heritage Sites preserve cultural heritage and identity with comprehensive supporting reasons ",
+            "explain the value and significance of natural and cultural places over time and explain how World Heritage Sites preserve cultural heritage and identity with supporting reasons",
+            "identify the value of natural and cultural places over time and describe how World Heritage Sites preserve cultural heritage and identity with some supporting reasons",
+            "identify some examples of the value of natural and cultural places over time and recognise how World Heritage Sites preserve cultural heritage and identity",
+          ],
+          Goals: [],
+        },
 
+        "LOI 2: Sustainable practices for futureproofing": {
+          Strengths: [
+            "examine the impacts of human activities and climate change on natural and cultural environments and rationalise how informed actions can protect and preserve significant places for future generations",
+            "investigate the impacts of human activities and climate change on natural and cultural environments and describe how informed actions can help protect and preserve significant places for future generations",
+            "explore the impacts of human activities and climate change on natural and cultural environments and describe actions that can protect significant places for future generations",
+            "explore the impacts of human activities and climate change on natural and cultural environments and describe some actions that can protect significant places",
+          ],
+          Goals: [],
+        },
+
+        "LOI 3: Global values and shared responsibilities": {
+          Strengths: [
+            "evaluate the shared responsibilities involved in protecting significant natural and cultural places by analysing the roles of citizens, communities and global organisations and justify informed decisions when considering complex environmental and heritage issues",
+            "explain the shared responsibilities involved in protecting significant natural and cultural places by outlining the roles of citizens, communities and global organisations and the role of informed decision making for the protection of significant places",
+            "outline the shared responsibilities involved in protecting significant natural and cultural places and recognise the role of citizens, communities and global organisations play and can provide relevant reasons to support decisions about preservation",
+            "outline some of the shared responsibilities involved in protecting significant natural and cultural places and recognise that citizens, communities and global organisations can play a role in the preservation of significant places",
+          ],
+          Goals: [],
+        },
+
+        "Mapping Skills": {
+          Strengths: [
+            "analyse and apply comprehensive mapping skills to accurately interpret, create and communicate geographical information using a range of mapping conventions",
+            "explain and apply mapping skills to accurately interpret and communicate geographical information using appropriate mapping conventions",
+            "use mapping skills to interpret and communicate geographical information using key mapping conventions",
+            "identify simple geographical information using mapping skills and apply some mapping conventions ",
+          ],
+          Goals: [],
+        },
+      }, // end WWAIPAT
     }, // end Semester 2 subjects
   }, // end Semester 2
-
 }; // end SEMESTER_DATA
