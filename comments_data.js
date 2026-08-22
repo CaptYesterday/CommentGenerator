@@ -62,7 +62,7 @@ const SEMESTER_DATA = {
     SUBJECT_ORDER: ["English", "Maths", "SharingthePlanet", "WhoWeAre", "HWOO"],
 
     SUBJECT_DISPLAY_NAMES: {
-      SharingthePlanet: "Sharing the Planet",
+      SharingthePlanet: "Sharing the Planet2",
       WhoWeAre: "Who We Are",
       HWOO: "HWOO",
       English: "English",
