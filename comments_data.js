@@ -1295,9 +1295,18 @@ const SEMESTER_DATA = {
           Goals: [],
         },
           
+        "Mapping Skills": {
+          Strengths: [
+            "analyse and apply comprehensive mapping skills to accurately interpret, create and communicate geographical information using a range of mapping conventions",
+            "explain and apply mapping skills to accurately interpret and communicate geographical information using appropriate mapping conventions",
+            "use mapping skills to interpret and communicate geographical information using key mapping conventions",
+            "identify simple geographical information using mapping skills and apply some mapping conventions ",
+          ],
+          Goals: [],
+        },
+
         "General Goals": {
-          Strengths: ["strength 1",
-                       ""strength 2",],
+          Strengths: [],
           Goals: [
             "analyse the value and significance of natural and cultural places and explain how they contribute to cultural heritage and identity",
             "explain how World Heritage Sites help preserve significant natural and cultural places for future generations",
@@ -1311,16 +1320,6 @@ const SEMESTER_DATA = {
             "apply knowledge and understanding of sustainability and global citizenship to propose actions that contribute positively to the protection of natural and cultural environments",
           ],
         
-        },
-
-        "Mapping Skills": {
-          Strengths: [
-            "analyse and apply comprehensive mapping skills to accurately interpret, create and communicate geographical information using a range of mapping conventions",
-            "explain and apply mapping skills to accurately interpret and communicate geographical information using appropriate mapping conventions",
-            "use mapping skills to interpret and communicate geographical information using key mapping conventions",
-            "identify simple geographical information using mapping skills and apply some mapping conventions ",
-          ],
-          Goals: [],
         },
       }, // end WWAIPAT
     }, // end Semester 2 subjects
