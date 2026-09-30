@@ -1272,18 +1272,7 @@ const SEMESTER_DATA = {
             "identify the value of natural and cultural places over time and describe how World Heritage Sites preserve cultural heritage and identity with some supporting reasons",
             "identify some examples of the value of natural and cultural places over time and recognise how World Heritage Sites preserve cultural heritage and identity",
           ],
-          Goals: [
-            "analyse the value and significance of natural and cultural places and explain how they contribute to cultural heritage and identity",
-            "explain how World Heritage Sites help preserve significant natural and cultural places for future generations",
-            "investigate the impacts of human activities and climate change on natural and cultural environments",
-            "identify and describe sustainable practices that can help protect and preserve significant places for future generations",
-            "explain the shared responsibilities of individuals, communities and global organisations in protecting significant places",
-            "make informed decisions about environmental and heritage issues, using relevant evidence to support ideas and conclusions",
-            "research information from a range of sources, selecting relevant information to develop understanding of environmental and heritage issues",
-            "communicate geographical information effectively, using appropriate geographical vocabulary, maps and mapping conventions",
-            "recognise the importance of responsible choices and sustainable actions in contributing to the preservation of environments and significant places",
-            "apply knowledge and understanding of sustainability and global citizenship to propose actions that contribute positively to the protection of natural and cultural environments",
-          ],
+          Goals: [],
         },
 
         "LOI 2: Sustainable practices for futureproofing": {
@@ -1304,6 +1293,22 @@ const SEMESTER_DATA = {
             "outline some of the shared responsibilities involved in protecting significant natural and cultural places and recognise that citizens, communities and global organisations can play a role in the preservation of significant places",
           ],
           Goals: [],
+
+          "General Goals": {
+          Strengths: [],
+          Goals: [
+            "analyse the value and significance of natural and cultural places and explain how they contribute to cultural heritage and identity",
+            "explain how World Heritage Sites help preserve significant natural and cultural places for future generations",
+            "investigate the impacts of human activities and climate change on natural and cultural environments",
+            "identify and describe sustainable practices that can help protect and preserve significant places for future generations",
+            "explain the shared responsibilities of individuals, communities and global organisations in protecting significant places",
+            "make informed decisions about environmental and heritage issues, using relevant evidence to support ideas and conclusions",
+            "research information from a range of sources, selecting relevant information to develop understanding of environmental and heritage issues",
+            "communicate geographical information effectively, using appropriate geographical vocabulary, maps and mapping conventions",
+            "recognise the importance of responsible choices and sustainable actions in contributing to the preservation of environments and significant places",
+            "apply knowledge and understanding of sustainability and global citizenship to propose actions that contribute positively to the protection of natural and cultural environments",
+          ],
+        },
         },
 
         "Mapping Skills": {
