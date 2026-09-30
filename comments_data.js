@@ -1295,7 +1295,7 @@ const SEMESTER_DATA = {
           Goals: [],
 
           "General Goals": {
-          Strengths: [],
+          Strengths: ["test",],
           Goals: [
             "analyse the value and significance of natural and cultural places and explain how they contribute to cultural heritage and identity",
             "explain how World Heritage Sites help preserve significant natural and cultural places for future generations",
