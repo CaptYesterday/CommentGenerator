@@ -1293,9 +1293,10 @@ const SEMESTER_DATA = {
             "outline some of the shared responsibilities involved in protecting significant natural and cultural places and recognise that citizens, communities and global organisations can play a role in the preservation of significant places",
           ],
           Goals: [],
-
-          "General Goals": {
-          Strengths: ["test",],
+        },
+          
+        "General Goals": {
+          Strengths: [],
           Goals: [
             "analyse the value and significance of natural and cultural places and explain how they contribute to cultural heritage and identity",
             "explain how World Heritage Sites help preserve significant natural and cultural places for future generations",
