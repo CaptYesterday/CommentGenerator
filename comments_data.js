@@ -1295,7 +1295,7 @@ const SEMESTER_DATA = {
           Goals: [],
 
           "General Goals": {
-          Strengths: ["test",],
+          Strengths: [],
           Goals: [
             "analyse the value and significance of natural and cultural places and explain how they contribute to cultural heritage and identity",
             "explain how World Heritage Sites help preserve significant natural and cultural places for future generations",
@@ -1308,7 +1308,7 @@ const SEMESTER_DATA = {
             "recognise the importance of responsible choices and sustainable actions in contributing to the preservation of environments and significant places",
             "apply knowledge and understanding of sustainability and global citizenship to propose actions that contribute positively to the protection of natural and cultural environments",
           ],
-        },
+        
         },
 
         "Mapping Skills": {
