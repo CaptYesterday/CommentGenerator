@@ -1282,7 +1282,7 @@ const SEMESTER_DATA = {
             "research information from a range of sources, selecting relevant information to develop understanding of environmental and heritage issues",
             "communicate geographical information effectively, using appropriate geographical vocabulary, maps and mapping conventions",
             "recognise the importance of responsible choices and sustainable actions in contributing to the preservation of environments and significant places",
-            "apply knowledge and understanding of sustainability and global citizenship to propose actions that contribute positively to the protection of natural and cultural environments"
+            "apply knowledge and understanding of sustainability and global citizenship to propose actions that contribute positively to the protection of natural and cultural environments",
           ],
         },
 
