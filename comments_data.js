@@ -1036,33 +1036,62 @@ const SEMESTER_DATA = {
       // ──────────────────────────────────────────────────────────────────────
       HowtheWorldWorks: {
         "How the World Works": {
-          Strengths: [
-            "pose relevant, open-ended questions based around the PYP Key Concepts to inquire into indigenous inventions",
-            "combine knowledge, conceptual understandings and skills to create a product to solve a real-life problem",
-            "include additional details and depth to written work to display extensive thinking",
-            "present an innovation 'Design Brief' that includes solid details and excellent use of scientific principles",
-            "reflect on a design and its contribution to the world on a personal level, a community level and a global level",
-            "distinguish between innovations and inventions",
-            "investigate Indigenous inventions using effective research",
-            "sort, synthesise and draw meaningful conclusions from research to communicate findings clearly and effectively",
-            "gather and analyse data",
-            "expand thinking to reflect on why a product is important on a global scale",
-            "pose higher level thinking questions based around the PYP Key Concepts to inquire into indigenous inventions",
-            "develop conceptual questions to inquire into the First Peoples' inventions",
-            "identify the difference between inventions and innovations and provide examples",
-            "use reliable sources to conduct research and correctly reference using a bibliography",
-            "draw and label a diagram of a unique innovation and explain its purpose",
-            "contributes meaningfully to class discussion",
-            "collaborate with others to follow a design brief and to create a product with a specific purpose",
-            "conduct scientific experiments investigating different forces",
-            "apply inquiry skills and enhanced research techniques to explore and investigate historical Indigenous inventions",
-            "record some technological details when writing a Design Brief to represent an invention",
-            "display technological understanding by adding more detail to a scientific diagram when representing an invention",
-            "formulate open-ended questions and use divergent questioning techniques to guide inquiry",
-            "uses inquiry skills and research techniques to investigate past Indigenous inventions",
-            "write a detailed Design Brief with solid reference to technology when presenting an invention",
-          ],
-          Goals: [],
+          "LOI 1: Technologies and innovations are developed to meet human needs": {
+            Strengths: [
+              "identifies how technologies and innovations are developed to solve problems and meet human needs",
+              "investigates real-world examples of innovation and explains their impact on people and the environment",
+              "communicates scientific and technological understanding using appropriate subject-specific language",
+              "applies scientific understanding to explain how technologies improve everyday life",
+              "investigates emerging technologies with curiosity and thoughtful questioning",
+              "evaluates the effectiveness of innovations in addressing specific human needs",
+            ],
+            Goals: [
+              "explain more deeply how scientific knowledge contributes to technological innovation",
+              "make stronger connections between human needs and sustainable solutions",
+              "support explanations with more detailed research and evidence",
+              "explore a broader range of technological innovations and their applications",
+              "evaluate both the benefits and limitations of technological solutions",
+              "make more detailed predictions about future technological developments",
+            ],
+          },
+
+          "LOI 2: Different knowledge systems influence sustainable design solutions": {
+            Strengths: [
+              "recognises how different knowledge systems contribute to sustainable practices",
+              "compares traditional and contemporary solutions thoughtfully and respectfully",
+              "explores multiple perspectives when considering design and sustainability challenges",
+              "acknowledges and respects the value of diverse knowledge systems",
+              "uses examples from different cultures to inform sustainable design thinking",
+              "considers environmental, social and cultural perspectives when proposing solutions",
+            ],
+            Goals: [
+              "analyse similarities and differences between knowledge systems in greater depth",
+              "justify opinions using specific examples from research and inquiry",
+              "evaluate how different perspectives can improve design outcomes",
+              "incorporate insights from a wider range of knowledge systems into investigations",
+              "explain more clearly how different perspectives contribute to sustainability",
+              "evaluate the impact of design solutions from multiple viewpoints",
+            ],
+          },
+
+          "LOI 3: Design processes use evidence and data to create and improve sustainable solutions": {
+            Strengths: [
+              "gathers and interprets data effectively to inform design decisions",
+              "applies the design process to develop creative and practical solutions",
+              "evaluates outcomes and uses feedback to refine and improve designs",
+              "uses evidence effectively to justify design choices",
+              "tests ideas systematically and records observations accurately",
+              "demonstrates persistence when refining and improving designs",
+            ],
+            Goals: [
+              "use a wider range of data to strengthen design decisions",
+              "provide more detailed evaluation of testing results and design effectiveness",
+              "refine solutions further by applying evidence consistently throughout the design process",
+              "collect and analyse data more critically to inform decision-making",
+              "justify design improvements with clearer reference to evidence",
+              "consider a wider range of factors when evaluating design success",
+            ],
+          },
         },
       }, // end HowtheWorldWorks
 
