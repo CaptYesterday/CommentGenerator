@@ -1035,7 +1035,6 @@ const SEMESTER_DATA = {
       //  HOW THE WORLD WORKS — Semester 2
       // ──────────────────────────────────────────────────────────────────────
       HowtheWorldWorks: {
-        "How the World Works": {
           "LOI 1: Technologies and innovations are developed to meet human needs": {
             Strengths: [
               "identifies how technologies and innovations are developed to solve problems and meet human needs",
@@ -1092,7 +1091,6 @@ const SEMESTER_DATA = {
               "consider a wider range of factors when evaluating design success",
             ],
           },
-        },
       }, // end HowtheWorldWorks
 
       // ──────────────────────────────────────────────────────────────────────
